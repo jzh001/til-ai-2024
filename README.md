@@ -1,4 +1,5 @@
-# DSTA TIL AI 2024 - Team Anti Heroes (Advanced Track Champion)
+# DSTA TIL AI 2024 (Advanced Track Champion)
+Team Anti Heroes
 
 ## Natural Language Processing
 ### Goal
