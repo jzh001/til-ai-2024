@@ -1,0 +1,8 @@
+path: /home/jupyter/anti-heroes/anti-heroes/code/cv/YOLOv8
+train: train
+val: val
+
+nc: 1
+
+# class names
+names: ['object']
